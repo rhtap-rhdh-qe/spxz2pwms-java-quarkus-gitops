@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: spxz2pwms-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/spxz2pwms-java-quarkus
